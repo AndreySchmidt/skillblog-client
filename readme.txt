@@ -3,3 +3,6 @@ npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-confi
 npm i axios
 npm i sass
 npm add react-hook-form
+
+npm i effector effector-react effector-next
+npm i react-toastify
