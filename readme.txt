@@ -6,3 +6,6 @@ npm add react-hook-form
 
 npm i effector effector-react effector-next
 npm i react-toastify
+
+npm i framer-motion
+
